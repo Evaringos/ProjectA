@@ -26,7 +26,7 @@ public class Consolespeaker : MonoBehaviour
                 counter = true;
                 Debug.Log("Counting is ended - this is test log");
                 Debug.LogWarning("Counting is ended - this is test log warning");
-                Debug.LogError("Counting is ended - this is test log error");
+                // Debug.LogError("Counting is ended - this is test log error");
             }
         }
     }
